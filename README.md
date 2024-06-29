@@ -1,4 +1,4 @@
-# CS150: Person Type
+# CIS200: Person Type
 
 ## Student Name and Email
 Leah Mirch (lmirch@umich.edu)
